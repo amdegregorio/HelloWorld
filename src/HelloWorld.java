@@ -10,7 +10,7 @@ public class HelloWorld {
 		//Basic system out command
 		System.out.println("Hello World!");
 		System.out.println("Hello, Universe!");
-		
+		System.out.println("Goodnight Moon!");
 	}
 
 }
